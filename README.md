@@ -25,10 +25,6 @@ Abrir en vscode
 ```bash
 code .
 ```
-Ejecutar el archivo para ver lo que hace tu código
-```bash
-node --watch nombreArchivo
-```
 
 ## Instrucciones
 
